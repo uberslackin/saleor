@@ -36,6 +36,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Add phone validation in the GraphQL API to handle the library upgrade - #4156 by @NyanKiyoshi
 - Fix view all orders button - #4173 by @benekex2
 - Fix applying discounts in checkout's subtotal calculation in API - #4192 by @maarcingebala
+- Unify search API - #4200 by @dominik-zeglen
 
 ## 2.6.0
 
